@@ -1,0 +1,18 @@
+.confirm-page{
+    position:absolute;
+    top : 55rem;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 40vw;
+    height: 50vh;
+    background-color: black;
+    border: 2px solid rgb(92, 87, 87);
+    border-radius: 10px;
+    color: white;
+    
+}
+button{
+    background-color: tomato;
+    border-radius: 8px;
+    color: white;
+}
